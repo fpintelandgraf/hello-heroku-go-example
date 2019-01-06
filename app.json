@@ -1,0 +1,6 @@
+{
+  "name": "hello-heroku-go-example",
+  "description": "Hello Heroku Example with Go",
+  "repository": "https://github.com/fpintelandgraf/hello-heroku-go-example",
+  "addons": []
+}
